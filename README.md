@@ -19,6 +19,7 @@ Débitos técnicos: o servidor de aplicação utilizado no projeto foi o Tomcat,
 # Interface Front-end
 
 ![Sem título4](https://github.com/user-attachments/assets/fb959eb8-7762-42bd-926d-da778a676c2d)
+![image](https://github.com/user-attachments/assets/ddd6543b-5579-4f44-9c45-9dacb4df834d)
 
 # Aplicação Back-end
 
