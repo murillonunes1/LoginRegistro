@@ -10,6 +10,8 @@ Banco de Dados: PostgreSQL
 
 Visualização de Dados: DBeaver
 
+IDE: O desenvolvimento do backend foi realizado no IntelliJ IDEA.
+
 Teste de APIs: Insomnia
 
 Débitos técnicos: o servidor de aplicação utilizado no projeto foi o Tomcat, pois o mesmo possui uma integração direta com o Spring Java. Caso haja uma necessidade futura de recursos mais avançados, pode-se reconsiderar o uso de outros servidores de aplicação como o Wildfly.
