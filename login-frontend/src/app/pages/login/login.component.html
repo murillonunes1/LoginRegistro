@@ -1,0 +1,29 @@
+<app-default-login-layout
+    title="Entrar"
+    primaryBtnText="Entrar agora"
+    secondaryBtnText="Inscreva-se agora"
+    (submit)="submit()"
+    (navigate)="navigate()"
+    [disablePrimaryBtn]="!loginForm.valid"
+>
+    <form [formGroup]="loginForm">
+        <app-primary-input
+            formControlName="email"
+            inputName="email"
+            type="email"
+            label="Email"
+            placeholder="seuemail@exemplo.com.br"
+        >
+            <img src="/assets/svg/email-icon.svg"/>
+        </app-primary-input>
+        <app-primary-input
+            formControlName="password"
+            inputName="password"
+            type="password"
+            label="Sua senha"
+        >
+        <img src="/assets/svg/password-icon.svg"/>
+    </app-primary-input>
+    <span>Esqueceu a senha?</span>
+    </form>
+</app-default-login-layout>
