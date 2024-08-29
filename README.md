@@ -8,8 +8,6 @@ Backend: Java (Spring Boot)
 
 Banco de Dados: PostgreSQL
 
-Gerenciamento de Banco de Dados: Docker
-
 Visualização de Dados: DBeaver
 
 Teste de APIs: Insomnia
