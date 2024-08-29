@@ -29,10 +29,6 @@ Débitos técnicos: o servidor de aplicação utilizado no projeto foi o Tomcat,
 
 ![Sem título2](https://github.com/user-attachments/assets/199ce02b-d07c-4792-9159-41a9f2421e5c)
 
-# Docker
-
-![image](https://github.com/user-attachments/assets/260f4ee4-7247-45bb-8d67-5eb2d190648c)
-
 # Visualização do banco de dados
 
 ![Sem título3](https://github.com/user-attachments/assets/814ec499-7f93-4fec-830c-a464ca5bb679)
