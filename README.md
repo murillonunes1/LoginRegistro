@@ -1,6 +1,7 @@
 # LoginRegistro
 
-## Visão Geral: Este projeto fornece um sistema de registro e login de usuários. Os usuários podem se registrar, fazer login e gerenciar suas sessões.
+## Visão Geral
+Este projeto fornece um sistema de registro e login de usuários usando banco de dados relacional. Os usuários podem se registrar, fazer login e gerenciar suas sessões.
 
 ## Tecnologias
 Frontend: Angular
